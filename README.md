@@ -1,4 +1,4 @@
-# Piecewise-Linear-Regression
+# Convex-Piecewise-Linear-Regression
 This repository presents the codes used to implement piecewise linear regression. 
 Let y = f(x) + z be a univariate model with x having d variables. 
 Only s out of d variables from x contribute to the model of y.
